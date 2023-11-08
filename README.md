@@ -3,7 +3,7 @@
 <h1 align="center">👋Hi, I'm Pluto👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Senior%20Frontend%20Engineer-React.js%20|%20Next.js%20|%20JavaScript%20|%20TypeScript%20|%20Node.js-blue" alt="Senior Frontend Engineer Badge" />
+  <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-React.js%20|%20Next.js%20|%20JavaScript%20|%20TypeScript%20|%20Node.js-blue" alt="Senior Frontend Engineer Badge" />
 </p>
 
 <p align="center">
