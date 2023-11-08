@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a senior frontend engineer with over 9 years of experience in building web applications using React.js, Next.js, JavaScript, TypeScript and Node.js. I'm passionate about creating beautiful, responsive and user-friendly interfaces that solve real-world problems.
+  I'm a senior software engineer with over 9 years of experience in building web applications using React.js, Next.js, JavaScript, TypeScript and Node.js. I'm passionate about creating beautiful, responsive and user-friendly interfaces that solve real-world problems.
 </p>
 
 ## Skills
