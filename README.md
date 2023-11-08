@@ -31,11 +31,10 @@
 - TypeScript <i class="fab fa-js"></i>
 
 ### Cloud Computing
-- AWS services (S3, Lambda, API Gateway) <i class="fab fa-aws"></i>
+- AWS services (S3, Lambda, DynamoDB) <i class="fab fa-aws"></i>
 
 ### CI/CD Tools
 - GitHub Actions <i class="fab fa-github"></i>
-- AWS CodePipeline <i class="fab fa-aws"></i>
 - Docker <i class="fab fa-docker"></i>
 
 
