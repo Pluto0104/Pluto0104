@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pluto0104" alt="pluto0104" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **.Net Core**
 
 - 💬 Ask me about **React, React Native, Next.js, Node.js, Javascript, Typescript**
 
