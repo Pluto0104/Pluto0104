@@ -3,11 +3,11 @@
 <h1 align="center">👋Hi, I'm Pluto👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Senior%20Frontend%20Engineer-React.js%20|%20Next.js%20|%20JavaScript%20|%20TypeScript%20|%20Node.js-blue" alt="Senior Frontend Engineer Badge" />
+  <img src="https://img.shields.io/badge/Senior%20Frontend%20Engineer-React.js%20|%20Next.js%20|%20JavaScript%20|%20TypeScript%20|%20Node.js-blue" alt="Senior Software Engineer Badge" />
 </p>
 
 <p align="center">
-  I'm a senior frontend engineer with over 12 years of experience in building web and mobile applications using modern JS/TS libraries such as React.js, Next.js, JavaScript, TypeScript, and Node.js. I'm passionate about creating user-friendly and high-performance applications that solve real-world problems.
+  I'm a senior Software engineer with over 12 years of experience in building web and mobile applications using modern JS/TS libraries such as React.js, Next.js, JavaScript, TypeScript, and Node.js. I'm passionate about creating user-friendly and high-performance applications that solve real-world problems.
 </p>
 
 ## Skills
