@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a senior Software engineer with over 12 years of experience in building web and mobile applications using modern JS/TS libraries such as React.js, Next.js, JavaScript, TypeScript, and Node.js. I'm passionate about creating user-friendly and high-performance applications that solve real-world problems.
+  I'm a senior Software engineer with over 8 years of experience in building web and mobile applications using modern JS/TS libraries such as React.js, Next.js, JavaScript, TypeScript, and Node.js. I'm passionate about creating user-friendly and high-performance applications that solve real-world problems.
 </p>
 
 ## Skills
