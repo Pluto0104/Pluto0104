@@ -34,12 +34,19 @@
 - Nest
 - Django
 
+### Mobile Development
+- React Native
+- Flutter
+- Kotlin
+
 ### Programming Languages
 - JavaScript <i class="fab fa-js"></i>
 - TypeScript <i class="fab fa-js"></i>
 - Python
 - C#
 - PHP
+- Rust
+- Solidity
 
 ### Cloud Computing
 - AWS services (S3, Lambda, API Gateway) <i class="fab fa-aws"></i>
