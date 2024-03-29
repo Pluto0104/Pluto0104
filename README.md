@@ -39,6 +39,7 @@
 - TypeScript <i class="fab fa-js"></i>
 - Python
 - C#
+- PHP
 
 ### Cloud Computing
 - AWS services (S3, Lambda, API Gateway) <i class="fab fa-aws"></i>
@@ -46,6 +47,11 @@
 - GCP
 - Microsoft Azure
 
+### CMS
+- WordPress
+- Shopify
+- Contentful
+  
 ### CI/CD Tools
 - GitHub Actions <i class="fab fa-github"></i>
 - AWS CodePipeline <i class="fab fa-aws"></i>
